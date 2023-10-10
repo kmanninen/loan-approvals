@@ -1,0 +1,10 @@
+langchain
+lime
+openai
+pandas
+scikit-learn
+seaborn
+shap
+transformers
+torch
+wordcloud
